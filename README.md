@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehdikhehdhiri" alt="mehdikhehdhiri" /></a> </p>
 
+- 🔍 I’m currently on the lookout for **new opportunities**
+  
 - 🔭 I’m currently working on **my portfolio**
 
 - 🌱 I’m currently learning **solidity and smart contracts**
